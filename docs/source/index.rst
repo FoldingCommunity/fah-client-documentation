@@ -28,18 +28,3 @@ Insights from this data are helping scientists to better understand biology, and
 
 .. * :ref:`genindex`
    * :ref:`search`
-
-
-----------------
-Noted Style/Font
-----------------
-
-- Bullet
-- **Bold**
-- *Italic*
-- ``Monospace``
-- You can \*escape certain\* special characters.
-   Tab
-
-.. This is a comment
-   Special notes that are not shown but might come out as HTML comments
