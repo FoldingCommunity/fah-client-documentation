@@ -2,6 +2,14 @@
 fah-client-documentation - Readme (WIP)
 =======================================
 
+Here's the badge:
+
+.. image:: https://readthedocs.org/projects/foldinghome-client-documentation/badge/?version=latest
+   :target: https://foldinghome-client-documentation.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
+Alternatively, read the documentation online at http://foldinghome-client-documentation.rtfd.io/
+
 ----------------
 Noted Style/Font
 ----------------
