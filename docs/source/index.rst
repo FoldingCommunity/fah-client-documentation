@@ -14,7 +14,7 @@ Insights from this data are helping scientists to better understand biology, and
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Table of Contents:
 
    user_guide
    contact
