@@ -2,13 +2,9 @@
 General
 =======
 
-This is a test build for Folding@Home's General Documentation.
-
-General Documentation.
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
    installation
    run

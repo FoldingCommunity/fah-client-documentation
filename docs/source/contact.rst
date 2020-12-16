@@ -7,7 +7,7 @@ Do you have technical problems with the client(app)?
 Tech support is found at:
 
 - `Discord <http://discord.gg/foldingathome>`_
-- `Foldingforum.org <http://foldingathome.org/>`_
+- `Foldingforum.org <https://foldingforum.org/>`_
 
 Do you want to report a client issue or bug?
 
