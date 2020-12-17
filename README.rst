@@ -25,6 +25,6 @@ Sometimes needs cache clearing
 | Line1
 | Change Line
 
-Superscript
+Footnote
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments

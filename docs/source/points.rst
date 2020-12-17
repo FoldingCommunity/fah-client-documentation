@@ -2,13 +2,9 @@
 Points
 ======
 
-This is a test build for Folding@Home's Points Documentation.
-
-Points Documentation.
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
    points_overview
    passkey
