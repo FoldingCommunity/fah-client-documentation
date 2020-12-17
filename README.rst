@@ -24,7 +24,11 @@ Sometimes needs cache clearing
    Tab
 | Line1
 | Change Line
+| Image n style
+| Footnote
+| Enumerated Lists
 
-Footnote
+
+Documentation References
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments
