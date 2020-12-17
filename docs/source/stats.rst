@@ -22,8 +22,8 @@ Instead, just the part before the @ sign will be used in any stats listing, etc.
 Are there any characters I should avoid in a username?
 ------------------------------------------------------
 Yes. We strongly recommend sticking to just letters, numbers and underscore. 
-Right now, we reserve the characters # ^ ~ |. # is used for firewall differentiation (see above). 
-We want to save ^ | and ~ for other problems which might come up. 
+Right now, we reserve the characters # ^ ~ \|. # is used for firewall differentiation (see above). 
+We want to save ^ \| and ~ for other problems which might come up. 
 Also, don’t put spaces in your username; please use some character like “_” instead. 
 Finally, please note that usernames are case sensitive, so “Dave” and “dave” and “dAVE” are all different usernames.
 
