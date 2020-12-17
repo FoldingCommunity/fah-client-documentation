@@ -2,7 +2,7 @@
 Miscellaneous
 =============
 
-.. contents:: Overview
+.. contents:: Table of Contents
    :depth: 2
 
 What do the pictures of proteins show?

@@ -14,6 +14,8 @@ Alternatively, read the documentation online at http://foldinghome-client-docume
 Noted Style/Font
 ----------------
 
+Sometimes needs cache clearing
+
 - Bullet
 - **Bold**
 - *Italic*
@@ -22,6 +24,11 @@ Noted Style/Font
    Tab
 | Line1
 | Change Line
+| Image n style
+| Footnote
+| Enumerated Lists
 
+
+Documentation References
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments
