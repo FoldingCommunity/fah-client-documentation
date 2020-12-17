@@ -81,12 +81,3 @@ As our GPU methods have matured, our plan is to treat all WUs identically.
 We can now do the same calculations (including implicit and explicit solvation) on both CPUs and GPUs. 
 In years past, these two pieces of hardware were treated differently. This is no longer the case. 
 Our plan is to introduce the Quick Return Bonus to GPUs as we roll out our new GPU core, FAHCore 17.
-
-
-
-
-
-
-
-
-

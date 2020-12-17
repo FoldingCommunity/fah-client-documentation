@@ -74,5 +74,3 @@ In the V7 FAHControl, a passkey can be added under the Configure button, Identit
    :align: center
 
 Note:  Use one and only one passkey for all clients. There is no advantage to using multiple passkeys, and several disadvantages.
-
-
