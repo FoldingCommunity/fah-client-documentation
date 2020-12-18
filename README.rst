@@ -34,7 +34,7 @@ I recommend using this format::
    Sub-subsection (Level 3)
    ------------------------
 
-You can also use ``" .`` as other option. For more you can try look for it, I beleive there's more characters that can be used.
+You can also use ``" .`` as other option. For more you can try look for it, I believe there's more characters that can be used.
 
 ------------
 Text Styling
@@ -56,7 +56,7 @@ Some basic styling::
    ------------------------
 
    Escape certain special characters using "Backslash", example: Folding\@Home
-   to escape because rst will automatically parse to action link "mailto" when see "@" character. 
+   It is because rst will automatically parse to action link "mailto" when see "@" character. 
    Except if @ is inside a styling, e.g. **Folding@Home** doesn’t need to be **Folding\@Home**.
 
       a Tab
