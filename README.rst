@@ -16,8 +16,9 @@ Quick Tutorial/Tips
 --------
 Headings
 --------
-| Heading formatting/styling is actually free by your style. You just need to be consistent within a single document.
-| I recommend using this format::
+Heading formatting/styling is actually free by your style. You just need to be consistent within a single document.
+
+I recommend using this format::
 
    ==========
    Page Title
