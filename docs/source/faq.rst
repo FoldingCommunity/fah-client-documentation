@@ -87,8 +87,8 @@ In particular, the results from Folding\@home will be made available on several 
 Most importantly, analysis of the simulations will be submitted to scientific journals for publication, 
 and these journal articles will be posted on the web page after publication.
 
-Following the publications of these scientific articles, w
-e will make the raw data of the folding runs available to other researchers upon request. 
+Following the publications of these scientific articles, 
+we will make the raw data of the folding runs available to other researchers upon request. 
 The data sets from some of our most prominent simulations are already publicly available. 
 We’ve also striven to share our key technologies with other scientists, to assist their research as well.
 
