@@ -34,7 +34,7 @@ I recommend using this format::
    Sub-subsection (Level 3)
    ------------------------
 
-You can also use ``" .`` as other option. For more you can try look for it, I beleive there's more characters that can be used.
+You can also use ``" .`` as other option. For more you can try look for it, I believe there's more characters that can be used.
 
 ------------
 Text Styling
