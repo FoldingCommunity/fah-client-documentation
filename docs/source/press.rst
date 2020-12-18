@@ -203,7 +203,8 @@ de novo simulations of protein folding with quantitative agreement with experime
 
 What advances have you made in your research since the Folding\@home project began?
 -----------------------------------------------------------------------------------
-We’ve been able to push the boundary for simulations by several orders of magnitude and used it to make advances in understanding protein folding, misfolding, and related disease. Check out our Awards page for what others have said about us.
+We’ve been able to push the boundary for simulations by several orders of magnitude and used it to make advances in understanding protein folding, 
+misfolding, and related disease. Check out our Awards page for what others have said about us.
 
 What are your goals with Folding\@home?
 ---------------------------------------
