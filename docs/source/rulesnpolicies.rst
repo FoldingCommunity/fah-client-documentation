@@ -62,10 +62,18 @@ Regarding The Project and Work Units (WUs)
 1. Donors should not manipulate the Assignment Server (AS) logic to unfairly obtain a specific Work Unit (WU) project 
    and/or block any specific WUs (for points enhancement). (Sources: `PG Member <http://foldingforum.org/viewtopic.php?f=58&t=15069&p=149346#p149346>`__, 
    `Super Moderator <http://foldingforum.org/viewtopic.php?p=142845#p142845>`_)
-2. Donors should not delete/dump a WU for any reason other than mentioned below (source: `PG Member <http://foldingforum.org/viewtopic.php?p=164798#p164798>`__). Deleting WUs disrupts the project since it takes longer for WUs to pass their deadline, get reassigned, and finally completed. Deleting a WU solely for PPD advantage is prohibited. The permitted reasons for deleting/dumping WUs are:
-    1. WU Instability -> When this happens, please report it in this Forum
-    2. FAH Client instability -> If this happens, please report it in the appropriate FAH Client Forum
-    3. Inability of the host system to complete the WU before the Deadline -> If it happens, please visit `this <http://foldingforum.org/viewtopic.php?f=61&t=16207>`_ thread or this guide to reconfigure your FAH Client to better fits your computing needs. (Source: `Site Admin <http://foldingforum.org/viewtopic.php?p=134170#p134170>`_)
+2. Donors should not delete/dump a WU for any reason other than mentioned below 
+   (source: `PG Member <http://foldingforum.org/viewtopic.php?p=164798#p164798>`__). 
+   Deleting WUs disrupts the project since it takes longer for WUs to pass their deadline, get reassigned, and finally completed. 
+   Deleting a WU solely for PPD advantage is prohibited. The permitted reasons for deleting/dumping WUs are:
+   
+   1. WU Instability -> When this happens, please report it in this Forum
+   2. FAH Client instability -> If this happens, please report it in the appropriate FAH Client Forum
+   3. Inability of the host system to complete the WU before the Deadline -> 
+      If it happens, please visit `this <http://foldingforum.org/viewtopic.php?f=61&t=16207>`_ 
+      thread or this guide to reconfigure your FAH Client to better fits your computing needs. 
+      (Source: `Site Admin <http://foldingforum.org/viewtopic.php?p=134170#p134170>`_)
+   
 3. Donors should not use flags/switches to mislead the Assignment Server (AS). 
    Please refrain from “experimenting” with flags/switches designed to be used for 
    `very specific <http://fahwiki.net/index.php/How_do_I_know_what_the_client_flags_%28-switches%29_are%2C_and_what_they_do%3F>`_ purposes. 
