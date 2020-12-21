@@ -56,8 +56,14 @@ The machine’s OS is Linux. Here are the steps that we use to determine points 
 
 1. Take a WU from a project and run it on the benchmark machine until it finishes.
 2. Measure the time it took to complete. Base credit awarded for the WU is then just a scaling factor multiplied by this time.
-3. The timeout and deadline values are also simple functions of the time it took to complete. These are set primarily to give a donor a reasonable amount of time to finish a WU, but short enough so that any WU that gets sent out but not processed (e.g. donor quits FAH, forgets to re-start that WU, their computer dies, etc) can be retrieved and sent out again in a reasonable amount of time. Thus these values are set depending on what kind of hardware a project is being run on (uniprocessor, SMP, GPU) and how long the WU took to finish on the benchmark machine.
-4. The k-factor, a coefficient in awarding bonus points, is currently set to a baseline value of 0.75, but may vary depending on the scientific value of a project.
+3. The timeout and deadline values are also simple functions of the time it took to complete. 
+   These are set primarily to give a donor a reasonable amount of time to finish a WU, 
+   but short enough so that any WU that gets sent out but not processed 
+   (e.g. donor quits FAH, forgets to re-start that WU, their computer dies, etc) can be retrieved and sent out again in a reasonable amount of time. 
+   Thus these values are set depending on what kind of hardware a project is being run on (uniprocessor, SMP, GPU) 
+   and how long the WU took to finish on the benchmark machine.
+4. The k-factor, a coefficient in awarding bonus points, is currently set to a baseline value of 0.75, 
+   but may vary depending on the scientific value of a project.
 
 **The Folding@home software on your computer calculates Total Points as follows:**
 

@@ -109,6 +109,7 @@ Additional Notes
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments
    strikethrough?
+   center-align text?
    contact link
    faq link
    rulesnpolicies link
