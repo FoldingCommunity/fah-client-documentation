@@ -114,4 +114,5 @@ Additional Notes
    faq link
    rulesnpolicies link
    miscellaneous image
+   windows_custom_installation image 14
    

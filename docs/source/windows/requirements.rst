@@ -90,7 +90,7 @@ Note: GPU drivers, models, features, and support develop very quickly. Please no
   New fahcores will not be available until some time after the new hardware products are sold to the public. 
   Then the fahcores and drivers may be updated, tested, and verified before released for folding.
 
-Note: Under Windows, antivirus software can interfere with the Folding@home client files and cause errors. 
+Note: Under Windows, antivirus software can interfere with the Folding\@home client files and cause errors. 
 We suggest configuring antivirus software to exclude the FAH client directory and especially the Work directory from the antivirus scanning list. 
 This can be done by going into the exclusion list panel that every antivirus should have. 
 The work subdirectory contains semi-random binary data and can confuse overly aggressive heuristic virus scanning.

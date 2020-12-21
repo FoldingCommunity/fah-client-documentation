@@ -176,7 +176,7 @@ The Web Control Change Identity window is displayed (see figure 10).
 
 Figure 10
 
-Enter a FAH user Name, Team #, and Passkey as needed.  Always use a Passkey.
+Enter a FAH user Name, Team #, and Passkey as needed. Always use a Passkey.
 
 Note: Using a Passkey adds an extra level of security, and is also a requirement to receiveQuick Return Bonus points.
 
@@ -196,6 +196,7 @@ Note: Move the Power Slider to Full for maximum production.
 
 Please read the V7 Introduction page for basic information and further explanations of the new client features.
 
-See also the FAHControl (client manager), FAHClient (slot), and FAHViewer (viewer) documents for more information about setup and customization options.
+See also the FAHControl (client manager), FAHClient (slot), 
+and FAHViewer (viewer) documents for more information about setup and customization options.
 
 While the default options are typically the recommended options, see the ConfigurationFAQ for additional setup options.
