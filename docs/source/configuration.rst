@@ -108,12 +108,7 @@ Note: V7 options are typically set in the Extra client options section, while ol
 The Edit Options window, or the Edit Core Option window is displayed (see figure 5).
 
 .. image:: https://foldingathome.org/wp-content/uploads/2016/09/WCF06aFAHControl.png
-   :alt: Edit-Options-1
-   :align: center
-
 .. image:: https://foldingathome.org/wp-content/uploads/2016/09/WCF06bFAHControl.png
-   :alt: Edit-Options-2
-   :align: center
 
 Extra client options <– Figure 5 –> Extra core options
 
@@ -125,12 +120,7 @@ There is no option name to enter, only the flag value. The example -np 2 is show
 Not all Extra Core Options are supported by all FAHCore types, and unsupported flags will be ignored.
 
 .. image:: https://foldingathome.org/wp-content/uploads/2016/09/WCF07FAHControl-1.png
-   :alt: Advanced-Options-1
-   :align: center
-
 .. image:: https://foldingathome.org/wp-content/uploads/2016/09/WCF07bFAHControl.png
-   :alt: Advanced-Options-2
-   :align: center
 
 Extra client options <– Figure 6 –> Extra core options
 
