@@ -188,18 +188,26 @@ http://scholar.google.com/citations?user=cWe_xpUAAAAJ
 
 de novo simulations of protein folding with quantitative agreement with experiment
 
-| While paper #1 (Shirts and Pande, Science, 2000) got the ball rolling, paper #8 (Snow et al, Nature, 2002) was important since it was the first time that experiment and simulation could really match in this sort of quantitative fashion. It was a test of many aspects of FAH and turned out quite well quantitatively.
+| While paper #1 (Shirts and Pande, Science, 2000) got the ball rolling, 
+  paper #8 (Snow et al, Nature, 2002) was important since it was the first time that experiment 
+  and simulation could really match in this sort of quantitative fashion. 
+  It was a test of many aspects of FAH and turned out quite well quantitatively.
 | Paper #17 is another good example of this, where we compared to multiple experimental methods.
-| This early work has been followed up by numerous works after to better understand folding, including folding in vitro (53, 49, 45, 42, 37, 35, 33, 24, 23, 22, 19, etc) and models of in vivo (#50, #36).
+| This early work has been followed up by numerous works after to better understand folding, 
+  including folding in vitro (53, 49, 45, 42, 37, 35, 33, 24, 23, 22, 19, etc) and models of in vivo (#50, #36).
 
 | **New drug design methodology**
-| We have also been pushing the boundaries of what can do with computational drug design (method in paper #29, results in paper #31 and #43, where we showed that our methods were very accurate, for a target of pharmaceutical relevance)
+| We have also been pushing the boundaries of what can do with computational drug design 
+  (method in paper #29, results in paper #31 and #43, where we showed that our methods were very accurate, for a target of pharmaceutical relevance)
 
 | **New methodology to simulate folding on distributed networks**
 | We have also had major efforts to further enhance our methods to push FAH to do more and more. This includes papers 54, 49, 46, 40, 32, 27, 26, 19, etc.
 
 | **Applications to disease**
-| Most of the exciting work is still under peer review (I think it always feels like that for scientists, as it takes ~1 year for review/publication), however some highlights that are already out include our work on cancer (papers #39 and #20) and lipid fusion, relevant for viral infection (papers #41, #47, #51)
+| Most of the exciting work is still under peer review 
+  (I think it always feels like that for scientists, as it takes ~1 year for review/publication), 
+  however some highlights that are already out include our work on cancer (papers #39 and #20) and lipid fusion, 
+  relevant for viral infection (papers #41, #47, #51)
 
 What advances have you made in your research since the Folding\@home project began?
 -----------------------------------------------------------------------------------

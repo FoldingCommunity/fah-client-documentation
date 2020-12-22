@@ -2,13 +2,9 @@
 Windows Install Guide
 =====================
 
-This is a test build for Folding@Home's Windows Install Guide Documentation.
-
-Windows Install Guide Documentation.
-
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Table of Contents:
 
    windows/overview
    windows/requirements
