@@ -9,3 +9,4 @@ Installation Guides
    windows
    linux
    mac
+   configuration

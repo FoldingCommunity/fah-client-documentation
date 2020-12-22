@@ -19,8 +19,7 @@ And with new concepts come new or updated terms to describe those concepts.
 Learning new references is part of the process for change and improvement.
 
 - Web Control – This is the new simpler graphical interface (front-end). 
-  Web Control will configure and monitor one or more FAHClient slots through an easy to use web page.  
-  This is the default control program.
+  Web Control will configure and monitor one or more FAHClient slots through an easy to use web page. This is the default control program.
 - FAHControl – This is an alternate new graphical interface (advanced front-end). 
   FAHControl will configure and monitor one or more FAHClient (slots), on one or more computers. This more advanced interface is optional.
 - FAHClient – This is the (back-end) client software managed by FAHControl and typically runs behind the scene. 
