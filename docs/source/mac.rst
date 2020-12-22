@@ -2,12 +2,8 @@
 Mac Install Guide
 =================
 
-This is a test build for Folding@Home's Mac Install Guide Documentation.
-
-Mac Install Guide Documentation.
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    mac/overview
