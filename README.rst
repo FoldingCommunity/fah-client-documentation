@@ -115,4 +115,3 @@ Additional Notes
    rulesnpolicies link
    miscellaneous image
    windows_custom_installation image 14
-   
