@@ -1,15 +1,13 @@
-==============================
-Manual Installation (Advanced)
-==============================
+Command Line Installation
+==========================
 
-Requirements
-------------
-
-This document assumes root access to the system.
+.. contents::
+   :local:
 
 
-Manual Installation – Optional (Advanced)
-------------------------------------------
+
+Overview
+---------
 
 Here are the basic command-line instructions to install and run the V7 Folding@home software.
 
@@ -19,7 +17,14 @@ Type each command exactly as it appears, or cut and paste directly from this gui
 
 Note: The installation commands shown include options to continue even when exact dependencies are not met. The V7 software is rather generic and works with most, if not all, version of the various libraries.
 
-Terminal installation for Debian / Mint / Ubuntu
+
+Requirements
+------------
+
+This document assumes root access to the system.
+
+
+Installation for Debian, Mint, and Ubuntu
 -------------------------------------------------
 
 Identify and Download the Latest F@H Version
@@ -32,6 +37,7 @@ Identify and Download the Latest F@H Version
         wget https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/[version]/fahclient_[version]_amd64.deb
         wget https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/[version]/fahcontrol_[version]-1_all.deb
         wget https://download.foldingathome.org/releases/public/release/fahviewer/debian-stable-64bit/[version]/fahviewer_[version]_amd64.deb
+
 
 Install the Packages
 ********************
@@ -51,8 +57,12 @@ Install the Packages
 
 Done. The FAHClient is installed and running as a service. Manage, monitor and update settings using the FAHControl.
 
-Terminal installation for RedHat / CentOS / Fedora
---------------------------------------------------
+
+
+Terminal installation for RedHat, CentOS, and Fedora
+------------------------------------------------------
+
+
 
 Identify and Download the Latest F@H Version
 ********************************************
