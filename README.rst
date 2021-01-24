@@ -121,6 +121,27 @@ Example::
    to add image from a link and also optionally you can add styling.
 
 
+-----------------------
+Local Table of Contents
+-----------------------
+
+Use this formatting to create a local page table of contents. This formatting must be added directly to the identified .rst doc.
+
+.. contents::
+   :local:
+
+
+-----
+Lists
+-----
+
+Use this formatting to create an indented bulleted list
+
+- list 1
+- list 2
+- list 3
+
+
 ----------------
 Additional Notes
 ----------------
