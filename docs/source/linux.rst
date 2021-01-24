@@ -6,7 +6,7 @@ Linux Install Guide
    :maxdepth: 1
    :caption: Contents:
 
-   linux/overview
+   linux/overview_linux.rst
    linux/requirements
    linux/manual_installation
    linux/command_line_only
