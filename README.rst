@@ -2,6 +2,9 @@
 fah-client-documentation - Readme
 =================================
 
+To view near real-time formatting of the page as you edit, see https://foldinghome-client-documentation.readthedocs.io/en/latest/installation.html
+
+
 Here's the badge:
 
 .. image:: https://readthedocs.org/projects/foldinghome-client-documentation/badge/?version=latest
