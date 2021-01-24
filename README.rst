@@ -10,15 +10,17 @@ Here's the badge:
 
 Alternatively, read the documentation online at http://foldinghome-client-documentation.rtfd.io/
 
+
 Quick Tutorial/Tips
 ===================
 
 --------
 Headings
 --------
+
 Heading formatting/styling is actually free by your style. You just need to be consistent within a single document.
 
-I recommend using this format::
+I recommend using this format:
 
    ==========
    Page Title
@@ -36,9 +38,11 @@ I recommend using this format::
 
 You can also use ``" .`` as other option. For more you can try look for it, I believe there's more characters that can be used.
 
+
 ------------
 Text Styling
 ------------
+
 Some basic styling::
 
    **Bold**
@@ -85,9 +89,11 @@ Some basic styling::
 
    ----------------------------------------------------------------------
 
+
 -----
 Links
 -----
+
 Example::
 
    `Foldingforum.org <https://foldingforum.org/>`_
@@ -95,9 +101,11 @@ Example::
 
    Note: if you define the same target name in the same page, you need to use double underscore at the end instead to avoid warning.
 
+
 ------
 Images
 ------
+
 Example::
 
    .. image:: directory/image1.png
@@ -111,6 +119,7 @@ Example::
       :width: 200
 
    to add image from a link and also optionally you can add styling.
+
 
 ----------------
 Additional Notes
