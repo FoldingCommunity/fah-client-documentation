@@ -7,7 +7,7 @@ Linux Install Guide
    :caption: Contents:
 
    linux/overview_linux.rst
-   linux/requirements
-   linux/manual_installation
-   linux/command_line_only
-   linux/uninstall
+   linux/requirements_linux.rst
+   linux/command_line_installation_linux.rst
+   linux/command_line_only_linux.rst
+   linux/uninstall_linux.rst
