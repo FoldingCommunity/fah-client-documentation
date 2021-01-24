@@ -73,6 +73,8 @@ The optional FAHClient (advanced client manager) is also included.
    :alt: FAH-Installer
    :align: center
 
+.. rst-class:: center
+
 Figure 1
 
 Double-click the Installer icon to start the software installation.

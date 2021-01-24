@@ -1,6 +1,6 @@
-=======================================
-fah-client-documentation - Readme (WIP)
-=======================================
+=================================
+fah-client-documentation - Readme
+=================================
 
 Here's the badge:
 
@@ -66,10 +66,22 @@ Some basic styling::
 
    ----------------------------------------------------------------------
 
-   Adding my footnote [1]_ also this one too [2]_
+   Adding footnote [1]_ also this one too [2]_
 
    .. [1] `Hopkins, 2002 <http://www.ncbi.nlm.nih.gov/pubmed/12209152>`_
    .. [2] `Bowman, 2012 <http://www.pnas.org/content/109/29/11681>`_
+
+   ----------------------------------------------------------------------
+
+   .. role:: strike
+
+   :strike:`This text is crossed out`
+
+   ----------------------------------------------------------------------
+
+   .. rst-class:: center
+
+   This paragraph will be centered.
 
    ----------------------------------------------------------------------
 
@@ -108,8 +120,6 @@ Additional Notes
 
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments
-   strikethrough?
-   center-align text?
    contact link
    faq link
    rulesnpolicies link
