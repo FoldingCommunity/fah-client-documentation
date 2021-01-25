@@ -138,11 +138,17 @@ Use this formatting to create a local page table of contents. This formatting mu
 Lists
 -----
 
-Use this formatting to create an indented bulleted list
+Use this formatting to create an indented bulleted list:
 
 - list 1
 - list 2
 - list 3
+
+Use this formatting to create a numbered list:
+
+#. list 1
+#. list 2
+#. list 3
 
 
 ----------------
