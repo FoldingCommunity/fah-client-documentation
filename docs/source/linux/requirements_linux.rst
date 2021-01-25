@@ -2,6 +2,9 @@
 Requirements
 ============
 
+.. contents::
+   :local:
+
 The new V7 software has the same basic hardware and operating system requirements as the previous clients. However, a few software specific requirements have changed to support newer features. Listed by slot type:
 
 CPU Slot Requirements 
