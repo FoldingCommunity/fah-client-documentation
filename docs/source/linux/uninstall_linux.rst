@@ -2,6 +2,9 @@
 Uninstall
 =========
 
+.. contents::
+   :local:
+
 This section describes how to uninstall V7 FAH application.
 
 Please let the current Work Unit finish and upload (using “Finish”). Exit the FAHControl application.
