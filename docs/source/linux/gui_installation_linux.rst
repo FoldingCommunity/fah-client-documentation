@@ -2,6 +2,8 @@
 GUI Based Installation
 ======================
 
+.. contents::
+   :local:
 
 Quick Start
 ------------
