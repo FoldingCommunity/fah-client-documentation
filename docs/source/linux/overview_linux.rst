@@ -2,6 +2,9 @@
 Linux Overview
 ==============
 
+.. contents::
+   :local:
+
 Introduction to V7
 ------------------
 
