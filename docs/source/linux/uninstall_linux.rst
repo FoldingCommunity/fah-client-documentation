@@ -20,11 +20,11 @@ Debian / Mint / Ubuntu
 Fedora / CentOS / Red Hat
 -------------------------
 
-#. Identify currently installed folding@home packages:
+#. Identify currently installed folding@home packages::
 
 	rpm -qa | grep -i fah
 
-#. Remove the packages
+#. Remove the packages::
 
 	yum remove [package_name]	
 
