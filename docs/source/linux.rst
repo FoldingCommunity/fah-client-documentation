@@ -3,7 +3,7 @@ Linux Install Guide
 ===================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    linux/overview_linux.rst
