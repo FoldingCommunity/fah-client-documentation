@@ -20,7 +20,7 @@ Ubuntu, Mint, and Debian
 
 #. Remove the packages::
 
-	 sudo dpkg -P fahclient
+	 sudo dpkg -P [package_name]
 
 
 
