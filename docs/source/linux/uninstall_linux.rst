@@ -10,15 +10,22 @@ This section describes how to uninstall V7 FAH application.
 Please let the current Work Unit finish and upload (using “Finish”). Exit the FAHControl application.
 
 
-Debian / Mint / Ubuntu
-----------------------
-  
-        sudo dpkg -P fahclient
+Ubuntu, Mint, and Debian
+------------------------
+
+
+#. Identify currently installed folding@home packages::
+
+	dpkg -l
+
+#. Remove the packages::
+
+	 sudo dpkg -P fahclient
 
 
 
-Fedora / CentOS / Red Hat
--------------------------
+Red Hat, CentOS, and Fedora
+---------------------------
 
 #. Identify currently installed folding@home packages::
 
