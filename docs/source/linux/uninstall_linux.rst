@@ -35,3 +35,9 @@ Red Hat, CentOS, and Fedora
 
 	yum remove [package_name]	
 
+
+
+#. Install the FAHClient. The package will prompt for initial setup information, user name, etc. Enter information or change as needed, and click OK::
+
+        dpkg -i --force-depends fahclient_[version]_amd64.deb
+
