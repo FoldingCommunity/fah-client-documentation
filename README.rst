@@ -136,25 +136,13 @@ Use this formatting to create an indented bulleted list::
    - list 2
    - list 3
 
-Use this formatting to create a numbered list:
+Use this formatting to create a numbered list::
 
-   #. list 1
-   #. list 2
-   #. list 3
+   1. List (1)
+   2. List (2)
+   3. List (3)
+   #. For auto-enumerated (4)
 
-- Bullet (1)
-- Bullet (2)
-
-1. Enumerated List (1)
-2. Enumerated List (2)
-
-- list 1
-- list 2
-- list 3
-
-#. list 1
-#. list 2
-#. list 3
 
 ----------------
 Additional Notes
