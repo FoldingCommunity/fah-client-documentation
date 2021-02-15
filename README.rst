@@ -1,6 +1,6 @@
-=================================
-fah-client-documentation - Readme
-=================================
+==========================================
+Folding@home Client Documentation - Readme
+==========================================
 
 To view near real-time formatting of the page as you edit, see https://foldinghome-client-documentation.readthedocs.io/en/latest/installation.html
 
@@ -122,6 +122,27 @@ Example::
       :width: 200
 
    to add image from a link and also optionally you can add styling.
+
+
+-----------------------
+Local Table of Contents
+-----------------------
+
+Use this formatting to create a local page table of contents. This formatting must be added directly to the identified .rst doc.::
+
+   .. contents::
+      :local:
+
+
+-----
+Lists
+-----
+
+Use this formatting to create an indented bulleted list::
+
+   - list 1
+   - list 2
+   - list 3
 
 
 ----------------
