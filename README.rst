@@ -52,14 +52,6 @@ Some basic styling::
    *Italic*
    ``monospaced``
 
-   -----------------------
-
-   - Bullet (1)
-   - Bullet (2)
-
-   1. Enumerated List (1)
-   2. Enumerated List (2)
-
    ------------------------
 
    Escape certain special characters using "Backslash", example: Folding\@Home
@@ -145,6 +137,20 @@ Use this formatting to create an indented bulleted list::
    - list 3
 
 Use this formatting to create a numbered list:
+
+   #. list 1
+   #. list 2
+   #. list 3
+
+- Bullet (1)
+- Bullet (2)
+
+1. Enumerated List (1)
+2. Enumerated List (2)
+
+- list 1
+- list 2
+- list 3
 
 #. list 1
 #. list 2
