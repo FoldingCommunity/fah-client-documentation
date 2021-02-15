@@ -5,7 +5,7 @@ fah-client-documentation - Readme
 To view near real-time formatting of the page as you edit, see https://foldinghome-client-documentation.readthedocs.io/en/latest/installation.html
 
 
-Here's the badge:
+Here's the badge to view Current Status of the documentation at readthedocs:
 
 .. image:: https://readthedocs.org/projects/foldinghome-client-documentation/badge/?version=latest
    :target: https://foldinghome-client-documentation.readthedocs.io/en/latest/?badge=latest
@@ -23,7 +23,7 @@ Headings
 
 Heading formatting/styling is actually free by your style. You just need to be consistent within a single document.
 
-I recommend using this format:
+I recommend using this format::
 
    ==========
    Page Title
@@ -122,33 +122,6 @@ Example::
       :width: 200
 
    to add image from a link and also optionally you can add styling.
-
-
------------------------
-Local Table of Contents
------------------------
-
-Use this formatting to create a local page table of contents. This formatting must be added directly to the identified .rst doc.
-
-.. contents::
-   :local:
-
-
------
-Lists
------
-
-Use this formatting to create an indented bulleted list:
-
-- list 1
-- list 2
-- list 3
-
-Use this formatting to create a numbered list:
-
-#. list 1
-#. list 2
-#. list 3
 
 
 ----------------
