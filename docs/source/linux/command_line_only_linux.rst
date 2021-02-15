@@ -33,3 +33,8 @@ Configuration using config.xml::
 Configuration with no config file (minimum flags)::
         
         ./FAHClient --user=Anonymous --team=0 --passkey=1385yourpasskeyhere5924 --gpu=false --smp=true
+        
+
+Configuration with no config file (minimum flags)::
+        
+        ./FAHClient --user=Anonymous --team=0 --passkey=1385yourpasskeyhere5924 --gpu=false --smp=true
