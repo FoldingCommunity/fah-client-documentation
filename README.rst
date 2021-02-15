@@ -1,11 +1,11 @@
-=================================
-fah-client-documentation - Readme
-=================================
+==========================================
+Folding@home Client Documentation - Readme
+==========================================
 
 To view near real-time formatting of the page as you edit, see https://foldinghome-client-documentation.readthedocs.io/en/latest/installation.html
 
 
-Here's the badge:
+Here's the badge to view Current Status of the documentation at readthedocs:
 
 .. image:: https://readthedocs.org/projects/foldinghome-client-documentation/badge/?version=latest
    :target: https://foldinghome-client-documentation.readthedocs.io/en/latest/?badge=latest
@@ -23,7 +23,7 @@ Headings
 
 Heading formatting/styling is actually free by your style. You just need to be consistent within a single document.
 
-I recommend using this format:
+I recommend using this format::
 
    ==========
    Page Title
@@ -51,14 +51,6 @@ Some basic styling::
    **Bold**
    *Italic*
    ``monospaced``
-
-   -----------------------
-
-   - Bullet (1)
-   - Bullet (2)
-
-   1. Enumerated List (1)
-   2. Enumerated List (2)
 
    ------------------------
 
@@ -128,27 +120,28 @@ Example::
 Local Table of Contents
 -----------------------
 
-Use this formatting to create a local page table of contents. This formatting must be added directly to the identified .rst doc.
+Use this formatting to create a local page table of contents. This formatting must be added directly to the identified .rst doc.::
 
-.. contents::
-   :local:
+   .. contents::
+      :local:
 
 
 -----
 Lists
 -----
 
-Use this formatting to create an indented bulleted list:
+Use this formatting to create an indented bulleted list::
 
-- list 1
-- list 2
-- list 3
+   - list 1
+   - list 2
+   - list 3
 
-Use this formatting to create a numbered list:
+Use this formatting to create a numbered list::
 
-#. list 1
-#. list 2
-#. list 3
+   1. List (1)
+   2. List (2)
+   3. List (3)
+   #. For auto-enumerated (4)
 
 
 ----------------
