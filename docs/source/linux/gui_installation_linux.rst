@@ -1,6 +1,6 @@
-======================
-GUI Based Installation
-======================
+================
+GUI Installation
+================
 
 .. contents::
    :local:
