@@ -6,10 +6,13 @@ GUI Based Installation
    :local:
 
 
-GUI Installation Steps
-----------------------
+Overview
+--------
 
 This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. And unless otherwised noted, the default setting for each option is the recommended setting.
+
+Steps
+-----
 
 Select the appropriate V7 package for your Linux distribution from the V7 download page. (see figure 1). There are separate installation packages for the new FAHControl (client manager) interface software, the new FAHClient (slot manager) software, and the new FAHViewer (viewer) software. FAHClient is required, FAHControl is recommended, FAHViewer is optional.
 
