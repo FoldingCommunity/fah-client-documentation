@@ -155,6 +155,21 @@ Configure System Service
 
         systemctl status FAHClient.service
 
+
+
+Configure Remote Access (Optional)
+**********************************
+
+#. Update the /etc/fahclient/config.xml file with the following stanza, while substituting in the IP address you want to allow::
+
+	 <!-- Grant remote web access to the following IP -->
+         <allow>192.168.1.1</allow>
+         <web-allow>192.168.1.1</web-allow>
+
+#. Navigate to the Web Control page to verify access: http://[IP_Address]:7396/
+
+
+
 Troubleshooting
 ---------------
 
