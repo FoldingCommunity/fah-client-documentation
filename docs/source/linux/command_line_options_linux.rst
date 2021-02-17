@@ -6,7 +6,7 @@ Command Line Options
    :local:
 
 
-Managing the system service
+Managing the System Service
 ---------------------------
 
 There are two options for running the FAHClient in Linux:
