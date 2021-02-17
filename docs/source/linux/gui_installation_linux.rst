@@ -5,22 +5,9 @@ GUI Based Installation
 .. contents::
    :local:
 
-Quick Start
-------------
 
-This section describes how to get started folding quickly with the new V7 software and the default FAHClient slot(s).
-
-- Download the package for your distro.
-- Click Install Package.
-- Enter password and click OK.
-- Click Forward, click close.
-- Done.
-
-After the download, the new V7 software is installed as a service and folding in under 1 minute. Very quick and easy. For a more guided installation, please see the Express Installor Custom Setup sections.
-
-
-Express Installation – Recommended!
------------------------------------
+GUI Installation Steps
+----------------------
 
 This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. And unless otherwised noted, the default setting for each option is the recommended setting.
 
