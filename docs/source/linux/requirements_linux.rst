@@ -14,7 +14,7 @@ CPU Slot Requirements
 - Broadband internet connection or faster
 
 CPU Notes
------------
+---------
 
 - A limited selection of Projects are available for 32-bit
 - A limited selection of Projects are available for single core processors, as the End Of Life for single core projects was announced in August 2013
@@ -22,7 +22,7 @@ CPU Notes
 
 
 GPU Slot Requirements
-----------------------
+---------------------
 
 - Recent 64 bit Linux distribution, Ubuntu 11.04, Red Hat 6.x, OpenSUSE 11.x
 - FAHClient running more than part time to meet shorter deadlines
@@ -32,7 +32,7 @@ GPU Slot Requirements
 
 
 AMD GPU Requirements
-**********************
+********************
 - GPU3 – OpenCL – FAHCore_17
         - OpenCL compatible GPU, 5xxx series or newer, see full list
         - 14.4 AMD device driver or newer  
@@ -47,7 +47,7 @@ Note: ATI/AMD (In beta testing, see Notes below)
 
 
 Nvidia GPU Requirements
-************************
+***********************
 - GPU3 – OpenCL – FAHCore_17
         - OpenCL compatible GPU, 4xx series and above (Fermi, Kepler, Maxwell, and newer*)
         - 361.xx NV device driver or newer (327.xx is a known stable version for older GPUs)
@@ -62,7 +62,7 @@ Nvidia GPU Requirements
 
 
 Notes
-------
+-----
 GPU drivers, models, features, and support develop very quickly. Please note these specific issues.
 
 - Automatic updating of the GPUs.txt is now supported in V7.3.x and newer.
