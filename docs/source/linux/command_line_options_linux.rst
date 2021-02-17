@@ -5,6 +5,10 @@ Command Line Options
 .. contents::
    :local:
 
+
+Managing the system service
+---------------------------
+
 There are two options for running the FAHClient in Linux:
 
 #. Run as a system service. This is the recommended and default option. The FAHClient service is installed automatically via the installer package, and will start at boot. Then control and configure the FAHClient with FAHControl. Note that FAHControl will not start or stop the FAHClient process. This setup uses /etc/fahclient/config.xml and runs in /var/lib/fahclient/. Do not run FAHClient directly when the service is running.
