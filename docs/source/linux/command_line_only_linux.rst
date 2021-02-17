@@ -1,6 +1,6 @@
-=========================
-Command Line Only Options
-=========================
+====================
+Command Line Options
+====================
 
 .. contents::
    :local:
