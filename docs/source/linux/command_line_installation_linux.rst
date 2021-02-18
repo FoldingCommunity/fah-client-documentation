@@ -92,7 +92,6 @@ Install the Packages
 
         rpm -i --nodeps fahviewer-7.4.4-1.x86_64.rpm
 
-Done. The FAHClient is installed and is ready to run as a service. Open FAHControl, enter user information, then unpause the client. Manage, monitor and update settings as needed.
 
 
 Configure config.xml
