@@ -84,11 +84,11 @@ Install the Packages
         rpm -i --nodeps fahclient-7.4.4-1.x86_64.rpm
 
 
-#. Install the FAHControl application. Root privileges are required::
+#. Install the FAHControl application. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         rpm -i --nodeps fahcontrol-7.4.4-1.noarch.rpm
 
-#. Optionally, install the FAHViewer::
+#. install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         rpm -i --nodeps fahviewer-7.4.4-1.x86_64.rpm
 
