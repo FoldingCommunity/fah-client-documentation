@@ -30,7 +30,7 @@ Installation for Debian, Mint, and Ubuntu
 Identify and Download the Latest F@H Version
 ********************************************
 
-#. Navigate to https://foldingathome.org/start-folding/
+#. Navigate to https://foldingathome.org/alternative-downloads/
 #. Right click the deb links, and select 'Copy Link Location'
 #. Download the latest identified F@H version to your local machine::
 
@@ -67,7 +67,7 @@ Terminal installation for RedHat, CentOS, and Fedora
 Identify and Download the Latest F@H Version
 ********************************************
 
-#. Navigate to https://foldingathome.org/start-folding/
+#. Navigate to https://foldingathome.org/alternative-downloads/
 #. Right click the rpm links, and select 'Copy Link Location'
 #. Download the latest identified F@H version to your local machine::
 
