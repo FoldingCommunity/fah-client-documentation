@@ -47,11 +47,11 @@ Install the Packages
         dpkg -i --force-depends fahclient_[version]_amd64.deb
 
 
-#. Install the FAHControl application. Root privileges are required. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually::
+#. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         dpkg -i --force-depends fahcontrol_[version]-1_all.deb
 
-#. Optionally, install the FAHViewer::
+#. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         dpkg -i --force-depends fahviewer_[version]_amd64.deb
 
