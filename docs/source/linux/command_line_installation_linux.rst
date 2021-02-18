@@ -59,8 +59,8 @@ Done. The FAHClient is installed and running as a service. Manage, monitor and u
 
 
 
-Terminal installation for RedHat, CentOS, and Fedora
-------------------------------------------------------
+Installation for RedHat, CentOS, and Fedora
+-------------------------------------------
 
 
 
