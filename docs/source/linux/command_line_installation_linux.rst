@@ -55,8 +55,6 @@ Install the Packages
 
         dpkg -i --force-depends fahviewer_[version]_amd64.deb
 
-Done. The FAHClient is installed and running as a service. Manage, monitor and update settings using the FAHControl.
-
 
 
 Installation for RedHat, CentOS, and Fedora
