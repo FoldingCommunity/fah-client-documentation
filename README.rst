@@ -152,6 +152,8 @@ Additional Notes
 
 .. This is a comment
    Special notes that are not shown but might come out as HTML comments
+   .. contents:: Table of Contents
+   :depth: 2
    contact link
    faq link
    rulesnpolicies link

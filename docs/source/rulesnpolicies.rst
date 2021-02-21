@@ -118,5 +118,7 @@ If you don’t add this option, it will run until it fails, or you press CTRL+C 
 Please let your computer’s temperatures stabilize when testing; this takes longer with watercooled systems. 
 Please see `this Forum thread <http://foldingforum.org/viewtopic.php?f=38&t=430#p3445>`_ for more information.
 
-Use `MemtestG80 <https://foldingathome.org/start-folding/#ntoc2>`_ or 
+.. role:: strike
+
+Use :strike:`FAHBench` and `MemtestG80 <https://foldingathome.org/start-folding/#ntoc2>`_ or 
 `MemtestCL <https://foldingathome.org/start-folding/#ntoc2>`_ for GPU stability testing.
