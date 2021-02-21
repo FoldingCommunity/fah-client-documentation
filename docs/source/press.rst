@@ -2,8 +2,11 @@
 Press Info
 ==========
 
-.. contents:: Table of Contents
+.. .. contents:: Table of Contents
    :depth: 4
+
+.. contents::
+   :local:
 
 How Did This All Come Together?
 ===============================
