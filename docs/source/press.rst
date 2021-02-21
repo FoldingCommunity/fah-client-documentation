@@ -2,7 +2,7 @@
 Press Info
 ==========
 
-.. contents::
+.. contents:: Table of Contents
    :local:
 
 How Did This All Come Together?

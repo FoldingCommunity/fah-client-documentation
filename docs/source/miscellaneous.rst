@@ -2,7 +2,7 @@
 Miscellaneous
 =============
 
-.. contents::
+.. contents:: Table of Contents
    :local:
 
 What do the pictures of proteins show?
