@@ -3,7 +3,7 @@ Press Info
 ==========
 
 .. contents:: Table of Contents
-   :depth: 4
+   :local:
 
 How Did This All Come Together?
 ===============================

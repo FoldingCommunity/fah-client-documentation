@@ -3,8 +3,8 @@ FLOPS
 =====
 
 .. contents:: Table of Contents
-   :depth: 2
-
+   :local:
+   
 What is a FLOP?
 ===============
 FLOP is an acronym for Floating Point OPeration. Often one refers to the FLOPS, meaning the Floating Point Operations Per Second. 
