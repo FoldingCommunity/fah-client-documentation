@@ -2,9 +2,6 @@
 Press Info
 ==========
 
-.. .. contents:: Table of Contents
-   :depth: 4
-
 .. contents::
    :local:
 
