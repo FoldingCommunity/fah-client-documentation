@@ -10,5 +10,5 @@ Linux Install Guide
    linux/requirements_linux.rst
    linux/gui_installation_linux.rst
    linux/command_line_installation_linux.rst
-   linux/command_line_commands_linux.rst
+   linux/helpful_commands_processes_notes_linux.rst
    linux/uninstall_linux.rst
