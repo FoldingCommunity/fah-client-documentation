@@ -1,6 +1,6 @@
-====================
-Command Line Options
-====================
+==========================================
+Command Line: Helpful Commands & Processes
+==========================================
 
 .. contents::
    :local:
