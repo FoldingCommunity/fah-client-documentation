@@ -5,6 +5,21 @@ Command Line: Helpful Commands & Processes
 .. contents::
    :local:
 
+Managing the Service
+--------------------
+
+Starting the service::
+	systemctl start FAHClient
+
+Stopping the service::
+	systemctl stop FAHClient
+
+Restarting the service::
+	systemctl restart FAHClient
+
+
+
+
 
 
 Note: There is no install guide or support in the forum for this type of expert only installation. The only support for command-line only installs is this:
