@@ -120,8 +120,8 @@ Configure config.xml
 
 
 
-Configure System Service
-************************
+Configure Systemd Service
+*************************
 
 #. Open a new file for F@H::
 
