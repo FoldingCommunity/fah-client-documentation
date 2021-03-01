@@ -1,12 +1,15 @@
-==========================================
-Command Line: Helpful Commands & Processes
-==========================================
+======================================
+Helpful Commands, Processes, and Notes
+======================================
 
 .. contents::
    :local:
 
 Managing the Service
 --------------------
+
+TEST
+
 
 Starting the service::
 	systemctl start FAHClient
