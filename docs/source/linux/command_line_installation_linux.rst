@@ -79,16 +79,16 @@ Install the Packages
 
 #. Install the FAHClient. Note that Fedora / RedHat .rpm packages do not support prompting for setup information. Instead, the client is set to pause on start so initial setup information may be entered through the FAHControl interface::
 
-        rpm -i --nodeps fahclient-7.4.4-1.x86_64.rpm
+        rpm -i --nodeps fahclient-[version]-1.x86_64.rpm
 
 
 #. Install the FAHControl application. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
-        rpm -i --nodeps fahcontrol-7.4.4-1.noarch.rpm
+        rpm -i --nodeps fahcontrol-[version]-1.noarch.rpm
 
 #. install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
-        rpm -i --nodeps fahviewer-7.4.4-1.x86_64.rpm
+        rpm -i --nodeps fahviewer-[version]-1.x86_64.rpm
 
 
 
