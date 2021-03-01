@@ -8,8 +8,6 @@ Helpful Commands, Processes, and Notes
 Managing the Service
 --------------------
 
-TEST
-
 
 Starting the service::
 	systemctl start FAHClient
