@@ -24,7 +24,8 @@ Restarting the service::
 
 
 
-
+FAHCLient Run Options
+---------------------
 
 Note: There is no install guide or support in the forum for this type of expert only installation. The only support for command-line only installs is this:
 
@@ -39,3 +40,7 @@ Configuration using config.xml::
 Configuration with no config file (minimum flags)::
         
         ./FAHClient --user=Anonymous --team=0 --passkey=1385yourpasskeyhere5924 --gpu=false --smp=true
+
+
+
+
