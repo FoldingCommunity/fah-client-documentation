@@ -139,6 +139,7 @@ Configure Systemd Service
         WorkingDirectory=/var/lib/fahclient
         ExecStart=/usr/bin/FAHClient --config=/etc/fahclient/config.xml --chdir=/var/lib/fahclient/
         PrivateTmp=yes
+	Restart=always
 
         [Install]
         WantedBy=multi-user.target
