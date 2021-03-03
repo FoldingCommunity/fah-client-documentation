@@ -3,7 +3,7 @@ Passkey
 =======
 
 .. contents:: Table of Contents
-   :depth: 2
+   :local:
 
 What is a passkey?
 ==================

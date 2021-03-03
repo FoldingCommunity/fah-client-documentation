@@ -3,7 +3,7 @@ Points Overview
 ===============
 
 .. contents:: Table of Contents
-   :depth: 3
+   :local:
 
 How are points determined?
 ==========================

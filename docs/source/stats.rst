@@ -3,7 +3,7 @@ Stats, Teams and Usernames
 ==========================
 
 .. contents:: Table of Contents
-   :depth: 3
+   :local:
 
 How do I choose a username?
 ===========================
