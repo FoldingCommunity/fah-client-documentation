@@ -44,7 +44,7 @@ Install the Packages
 
         apt install ./fahclient_7.6.21_amd64.deb
 
-Expected Output:
+Expected Output::
 
 	Reading package lists... Done
 	Building dependency tree       
