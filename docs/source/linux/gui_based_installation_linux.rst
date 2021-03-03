@@ -37,9 +37,9 @@ Identify and Download the Latest F@H Version
 Install the Packages
 ********************
 
-#. Install the FAHClient. The package will prompt for initial setup information, user name, etc. Enter information or change as needed, and click OK::
+#. Install the FAHClient:
 
-        dpkg -i --force-depends fahclient_[version]_amd64.deb
+        apt install ./fahclient_7.6.21_amd64.deb
 
 
 #. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
