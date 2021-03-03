@@ -3,7 +3,7 @@ Rules & Policies
 ================
 
 .. contents:: Table of Contents
-   :depth: 3
+   :local:
 
 Run Folding\@home only on authorized computers
 ==============================================
