@@ -37,7 +37,7 @@ Identify and Download the Latest F@H Version
 Install the Packages
 ********************
 
-#. Install the FAHClient:
+#. Install the FAHClient. After the package installs, Folding@Home processes will begin running and consuming CPU cycles.
 
         apt install ./fahclient_7.6.21_amd64.deb
 
