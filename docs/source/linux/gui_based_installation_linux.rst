@@ -87,11 +87,11 @@ Expected Output::
 
 
 
-2. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+2. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually::
 
         dpkg -i --force-depends fahcontrol_[version]-1_all.deb
 
-3. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+3. Optionally, install the FAHViewer::
 
         apt install ./fahviewer_[version]_amd64.deb
 
