@@ -3,7 +3,7 @@ Troubleshooting
 ===============
 
 .. contents:: Table of Contents
-   :depth: 2
+   :local:
 
 Do I need administrator privileges to install the FAH client?
 =============================================================
