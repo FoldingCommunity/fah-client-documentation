@@ -11,6 +11,12 @@ Overview
 This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. And unless otherwised noted, the default setting for each option is the recommended setting.
 
 
+Requirements
+------------
+
+This document assumes root access to the system.
+
+
 Installation for Debian, Mint, and Ubuntu
 -------------------------------------------------
 
