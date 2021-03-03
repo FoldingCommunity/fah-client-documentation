@@ -40,7 +40,7 @@ Note: GUI based installation of the packages is not supported and will return th
 Install the Packages
 ********************
 
-#. Install the FAHClient. After the package installs, Folding@Home processes will begin running and consuming CPU cycles::
+1. Install the FAHClient. After the package installs, Folding@Home processes will begin running and consuming CPU cycles::
 
         apt install ./fahclient_7.6.21_amd64.deb
 
@@ -87,11 +87,11 @@ Expected Output::
 
 
 
-#. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+2. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         dpkg -i --force-depends fahcontrol_[version]-1_all.deb
 
-#. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+3. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
 
         dpkg -i --force-depends fahviewer_[version]_amd64.deb
 
