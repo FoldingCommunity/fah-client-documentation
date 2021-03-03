@@ -27,6 +27,8 @@ Identify and Download the Latest F@H Version
 #. Right click the deb links, and select 'Copy Link Location'
 #. Download the latest identified F@H version to your local machine::
 
+	su root
+        cd [Downloads_Directory]
         wget https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/[version]/fahclient_[version]_amd64.deb
         wget https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/[version]/fahcontrol_[version]-1_all.deb
         wget https://download.foldingathome.org/releases/public/release/fahviewer/debian-stable-64bit/[version]/fahviewer_[version]_amd64.deb
