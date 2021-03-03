@@ -1,5 +1,5 @@
-Command Line Installation
-==========================
+Command Line Based Installation
+===============================
 
 .. contents::
    :local:
