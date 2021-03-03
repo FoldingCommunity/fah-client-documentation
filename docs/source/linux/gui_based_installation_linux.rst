@@ -11,8 +11,56 @@ Overview
 
 This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. And unless otherwised noted, the default setting for each option is the recommended setting.
 
-Steps
------
+
+Installation for Debian, Mint, and Ubuntu
+-------------------------------------------------
+
+Identify and Download the Latest F@H Version
+********************************************
+
+#. Navigate to https://foldingathome.org/alternative-downloads/
+#. Right click the deb links, and select 'Copy Link Location'
+#. Download the latest identified F@H version to your local machine::
+
+        wget https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/[version]/fahclient_[version]_amd64.deb
+        wget https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/[version]/fahcontrol_[version]-1_all.deb
+        wget https://download.foldingathome.org/releases/public/release/fahviewer/debian-stable-64bit/[version]/fahviewer_[version]_amd64.deb
+
+
+Install the Packages
+********************
+
+#. Install the FAHClient. The package will prompt for initial setup information, user name, etc. Enter information or change as needed, and click OK::
+
+        dpkg -i --force-depends fahclient_[version]_amd64.deb
+
+
+#. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+
+        dpkg -i --force-depends fahcontrol_[version]-1_all.deb
+
+#. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
+
+        dpkg -i --force-depends fahviewer_[version]_amd64.deb
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Select the appropriate V7 package for your Linux distribution from the V7 download page. (see figure 1). There are separate installation packages for the new FAHControl (client manager) interface software, the new FAHClient (slot manager) software, and the new FAHViewer (viewer) software. FAHClient is required, FAHControl is recommended, FAHViewer is optional.
 
