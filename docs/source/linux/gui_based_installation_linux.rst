@@ -23,6 +23,7 @@ Installation for Debian, Mint, and Ubuntu
 Identify and Download the Latest F@H Version
 ********************************************
 Note: GUI based installation of the packages is not supported and will return the following error in the Ubuntu Software Store:
+
 	Failed to install file: not supported
 
 #. Navigate to https://foldingathome.org/alternative-downloads/
