@@ -40,7 +40,7 @@ Note: GUI based installation of the packages is not supported and will return th
 Install the Packages
 ********************
 
-#. Install the FAHClient. After the package installs, Folding@Home processes will begin running and consuming CPU cycles.:
+#. Install the FAHClient. After the package installs, Folding@Home processes will begin running and consuming CPU cycles:
 
         apt install ./fahclient_7.6.21_amd64.deb
 
