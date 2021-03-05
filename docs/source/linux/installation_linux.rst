@@ -14,7 +14,7 @@ This section describes the recommended method for installing the V7 FAH software
 Requirements
 ------------
 
-This document assumes root access to the system.
+This document requires root access to the system.
 
 
 Installation for Debian, Mint, and Ubuntu
