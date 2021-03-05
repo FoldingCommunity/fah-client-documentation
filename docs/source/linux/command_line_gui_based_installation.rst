@@ -1,5 +1,5 @@
-GUI Based Installation
-======================
+Command Line & GUI Based Installation
+=====================================
 
 .. contents::
    :local:

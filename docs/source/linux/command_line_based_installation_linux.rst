@@ -18,46 +18,6 @@ Type each command exactly as it appears, or cut and paste directly from this gui
 Note: The installation commands shown include options to continue even when exact dependencies are not met. The V7 software is rather generic and works with most, if not all, version of the various libraries.
 
 
-Requirements
-------------
-
-This document assumes root access to the system.
-
-
-Installation for Debian, Mint, and Ubuntu
--------------------------------------------------
-
-Identify and Download the Latest F@H Version
-********************************************
-
-#. Navigate to https://foldingathome.org/alternative-downloads/
-#. Right click the deb links, and select 'Copy Link Location'
-#. Download the latest identified F@H version to your local machine::
-	
-	su root
-	cd [Downloads_Directory]
-        wget https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/[version]/fahclient_[version]_amd64.deb
-        wget https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/[version]/fahcontrol_[version]-1_all.deb
-        wget https://download.foldingathome.org/releases/public/release/fahviewer/debian-stable-64bit/[version]/fahviewer_[version]_amd64.deb
-
-
-Install the Packages
-********************
-
-#. Install the FAHClient. The package will prompt for initial setup information, user name, etc. Enter information or change as needed, and click OK::
-
-        dpkg -i --force-depends fahclient_[version]_amd64.deb
-
-
-#. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
-
-        dpkg -i --force-depends fahcontrol_[version]-1_all.deb
-
-#. Optionally, install the FAHViewer. Please note that it is not required to install fahcontrol on a headless (non-GUI) system::
-
-        dpkg -i --force-depends fahviewer_[version]_amd64.deb
-
-
 
 Installation for RedHat, CentOS, and Fedora
 -------------------------------------------
