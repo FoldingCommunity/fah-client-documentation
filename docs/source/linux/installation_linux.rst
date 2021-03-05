@@ -1,5 +1,5 @@
-Command Line & GUI Based Installation
-=====================================
+Installation
+============
 
 .. contents::
    :local:
@@ -247,46 +247,6 @@ Configure Remote Access (Optional)
          <web-allow>192.168.1.1</web-allow>
 
 #. Navigate to the Web Control page to verify access: http://[IP_Address]:7396/
-
-
-
-Troubleshooting
----------------
-
-If the FAHControl application still has dependency issues with the installed version of Python, there is a workaround to copy the FAH Python files to the newer Python folder.  These commands assume that FAH is set to use Python 2.6, and Linux has Python 2.7 installed. Create a link from the newer version to the older version::
-
-        cd /usr/lib
-
-        sudo ln -s /usr/lib/python2.7 /usr/lib/python2.6
-
-Copy the fah module from the old location to the new location::
-
-        sudo cp -R /usr/lib/python2.6/site-packages/fah /usr/lib/python2.7/site-packages/fah
-
-This resolves the FAHControl dependency and will allow the application to run in the newest distributions of Linux.
-
-Note that using this virtual link to Python may cause Yum to complain the next time a Python update is available. Removing FAHControl from the RPM database will resolve this problem::
-
-        sudo rpm -e --justdb FAHControl
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
