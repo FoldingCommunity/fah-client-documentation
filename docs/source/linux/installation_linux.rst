@@ -135,6 +135,7 @@ Expected Output::
 	Processing triggers for desktop-file-utils (0.24-1ubuntu4) ...
 
  
+4. Complete post install steps.
 
 
 
@@ -172,7 +173,11 @@ Install the Packages
 
         rpm -i --nodeps fahviewer-[version]-1.x86_64.rpm
 
+#. Complete post install steps.
 
+
+Post Install Steps
+------------------
 
 Configure config.xml
 ********************
@@ -247,7 +252,3 @@ Configure Remote Access (Optional)
          <web-allow>192.168.1.1</web-allow>
 
 #. Navigate to the Web Control page to verify access: http://[IP_Address]:7396/
-
-
-
-
