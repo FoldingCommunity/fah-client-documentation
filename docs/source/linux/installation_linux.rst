@@ -179,8 +179,8 @@ Install the Packages
 Post Install Steps
 ------------------
 
-Configure config.xml
-********************
+Configure config.xml File
+*************************
 
 #. Open the config.xml file::
 
