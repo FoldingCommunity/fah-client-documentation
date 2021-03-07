@@ -3,7 +3,7 @@ Configuration Guide
 ===================
 
 .. contents:: Table of Contents
-   :depth: 3
+   :local:
 
 General configurations
 ======================
