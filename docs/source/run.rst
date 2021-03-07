@@ -3,7 +3,7 @@ Running Folding\@Home
 =====================
 
 .. contents:: Table of Contents
-   :depth: 2
+   :local:
 
 Are there any limits to how long my machine can take to finish a work unit (WU)?
 ================================================================================
