@@ -12,7 +12,7 @@ and use the Folding\@home software to the science behind our research.
 Look through the sidebar and find the topic you want to know more about.
 
 .. contents:: Table of Contents
-   :depth: 2
+   :local:
 
 Can I run Folding\@home on a machine I don’t own?
 =================================================
