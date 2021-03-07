@@ -1,6 +1,6 @@
-==========================================
-Folding@home Client Documentation - Readme
-==========================================
+===========================================
+Folding\@home Client Documentation - Readme
+===========================================
 
 To view near real-time formatting of the page as you edit, see https://foldinghome-client-documentation.readthedocs.io/en/latest/installation.html
 
