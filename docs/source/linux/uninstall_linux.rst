@@ -43,3 +43,6 @@ Cleanup Files & Directories
 
 	cd /etc
 	rm -rf fahclient
+
+	cd /var/lib
+	rm -rf fahclient
