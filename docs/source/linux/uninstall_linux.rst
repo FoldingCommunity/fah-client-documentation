@@ -35,3 +35,11 @@ Red Hat, CentOS, and Fedora
 
 	yum remove [package_name]
 
+
+Cleanup Files & Directories
+---------------------------
+
+# Cleanup files and directories created during package installation::
+
+	cd /etc
+	rm -rf fahclient
