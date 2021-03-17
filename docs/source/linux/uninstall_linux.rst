@@ -16,11 +16,11 @@ Ubuntu, Mint, and Debian
 
 #. Identify currently installed folding@home packages::
 
-	dpkg -l
+	apt list --installed | grep fah
 
 #. Remove the packages::
 
-	 sudo dpkg -P [package_name]
+	 apt remove [package_name]
 
 
 
