@@ -212,7 +212,7 @@ Configure Systemd Service
 
 #. Open a new file for F@H::
 
-        vi /etc/systemd/system/FAHClient.service
+        vi /etc/systemd/system/fahclient.service
 
 #. Insert the following text into the file::
 
@@ -234,11 +234,11 @@ Configure Systemd Service
 #. Save the file
 #. Start the service::
 
-        systemctl start FAHClient.service
+        systemctl start fahclient
 
 #. Verify service status::
 
-        systemctl status FAHClient.service
+        systemctl status fahclient
 
 
 
