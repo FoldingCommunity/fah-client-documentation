@@ -200,9 +200,10 @@ Configure config.xml File
           <team v='123456'/>
           <user v='First_Last'/>
 
-          <!-- Folding Slots -->
-          <slot id='1' type='CPU'/>
-          <slot id='2' type='CPU'/>
+	  <!-- Folding Slots -->
+	  <slot id='0' type='CPU'>
+	    <cpus v='2'/>
+	  </slot>
 
 
 
