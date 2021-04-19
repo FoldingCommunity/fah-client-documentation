@@ -207,6 +207,10 @@ Configure config.xml File
 
 
 
+.. note::
+
+   This is a test note.
+
 
 Configure Systemd Service
 *************************
