@@ -209,7 +209,7 @@ Configure config.xml File
 
 .. note::
 
-   This is a test note.
+   Please note that modifying the number of cores to leverage may not be seen immediately. The existing work unit will need to complete before the updated core usage will be seen.
 
 
 Configure Systemd Service
