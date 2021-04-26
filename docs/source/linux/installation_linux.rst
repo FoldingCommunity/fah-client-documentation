@@ -8,7 +8,7 @@ Installation
 Overview
 --------
 
-This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. And unless otherwised noted, the default setting for each option is the recommended setting.
+This section describes the recommended method for installing the V7 FAH software for an individual client slot using a software package in Linux. A first time installation is assumed. Unless otherwised noted, the default setting for each option is the recommended setting.
 
 
 Requirements
