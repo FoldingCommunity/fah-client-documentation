@@ -41,49 +41,6 @@ Install the Packages
 
         apt install ./fahclient_[version]_amd64.deb
 
-Expected Output::
-
-	Reading package lists... Done
-	Building dependency tree       
-	Reading state information... Done
-	Note, selecting 'fahclient' instead of './fahclient_7.6.21_amd64.deb'
-	Recommended packages:
-	  fahviewer fahcontrol
-	The following NEW packages will be installed:
-	  fahclient
-	0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
-	After this operation, 9,250 kB of additional disk space will be used.
-	Get:1 /home/workstation/Downloads/fahclient_7.6.21_amd64.deb fahclient amd64 7.6.21 [3,266 kB]
-	Preconfiguring packages ...
-	Selecting previously unselected package fahclient.
-	(Reading database ... 296929 files and directories currently installed.)
-	Preparing to unpack .../fahclient_7.6.21_amd64.deb ...
-	usermod: no changes
-	Unpacking fahclient (7.6.21) ...
-	Setting up fahclient (7.6.21) ...
-	Failed to enable unit: Unit /run/systemd/generator.late/FAHClient.service is transient or generated.
-
-	The Folding@home client is now installed
-
-	You can access the Web interface by going to:
-
-	  https://client.foldingathome.org/
-
-	in a browser on this computer.
-
-	For information about configuring the Folding@home client for 
-	remote access please see the comments in:
-
-	  /etc/fahclient/config.xml
-
-
-	Processing triggers for mime-support (3.64ubuntu1) ...
-	Processing triggers for gnome-menus (3.36.0-1ubuntu1) ...
-	Processing triggers for systemd (246.6-1ubuntu1.1) ...
-	Processing triggers for desktop-file-utils (0.24-1ubuntu4) ...
-
-
-
 2. Install the FAHControl application. FAHControl will show “offline” or “connecting” status until the FAHClient is running, either started automatically (strongly recommended) or started manually::
 
         dpkg -i --force-depends fahcontrol_[version]-1_all.deb
