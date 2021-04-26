@@ -11,15 +11,15 @@ Managing the Service
 
 Starting the service::
 
-	systemctl start FAHClient
+	systemctl start fahclient
 
 Stopping the service::
 
-	systemctl stop FAHClient
+	systemctl stop fahclient
 
 Restarting the service::
 
-	systemctl restart FAHClient
+	systemctl restart fahclient
 
 
 
