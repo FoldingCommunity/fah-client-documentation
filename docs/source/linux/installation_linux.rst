@@ -48,46 +48,6 @@ Install the Packages
 3. Optionally, install the FAHViewer::
 
         apt install ./fahviewer_[version]_amd64.deb
-
-
-Expected Output::
-
-	Reading package lists... Done
-	Building dependency tree       
-	Reading state information... Done
-	Note, selecting 'fahviewer' instead of './fahviewer_7.6.21_amd64.deb'
-	The following additional packages will be installed:
-	  freeglut3 libgl1-mesa-glx
-	Recommended packages:
-	  fahcontrol
-	The following NEW packages will be installed:
-	  fahviewer freeglut3 libgl1-mesa-glx
-	0 upgraded, 3 newly installed, 0 to remove and 0 not upgraded.
-	Need to get 79.6 kB/4,744 kB of archives.
-	After this operation, 15.9 MB of additional disk space will be used.
-	Do you want to continue? [Y/n] y
-	Get:1 /home/workstation/Downloads/fahviewer_7.6.21_amd64.deb fahviewer amd64 7.6.21 [4,665 kB]
-	Get:2 http://us.archive.ubuntu.com/ubuntu groovy-updates/main amd64 libgl1-mesa-glx amd64 20.2.6-0ubuntu0.20.10.1 [5,540 B]
-	Get:3 http://us.archive.ubuntu.com/ubuntu groovy/universe amd64 freeglut3 amd64 2.8.1-6 [74.0 kB]
-	Fetched 79.6 kB in 0s (343 kB/s)    
-	Selecting previously unselected package libgl1-mesa-glx:amd64.
-	(Reading database ... 301129 files and directories currently installed.)
-	Preparing to unpack .../libgl1-mesa-glx_20.2.6-0ubuntu0.20.10.1_amd64.deb ...
-	Unpacking libgl1-mesa-glx:amd64 (20.2.6-0ubuntu0.20.10.1) ...
-	Selecting previously unselected package freeglut3:amd64.
-	Preparing to unpack .../freeglut3_2.8.1-6_amd64.deb ...
-	Unpacking freeglut3:amd64 (2.8.1-6) ...
-	Selecting previously unselected package fahviewer.
-	Preparing to unpack .../fahviewer_7.6.21_amd64.deb ...
-	Unpacking fahviewer (7.6.21) ...
-	Setting up freeglut3:amd64 (2.8.1-6) ...
-	Setting up libgl1-mesa-glx:amd64 (20.2.6-0ubuntu0.20.10.1) ...
-	Setting up fahviewer (7.6.21) ...
-	Processing triggers for mime-support (3.64ubuntu1) ...
-	Processing triggers for gnome-menus (3.36.0-1ubuntu1) ...
-	Processing triggers for libc-bin (2.32-0ubuntu3) ...
-	Processing triggers for desktop-file-utils (0.24-1ubuntu4) ...
-
  
 4. Complete post install steps.
 
