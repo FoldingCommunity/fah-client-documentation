@@ -25,7 +25,7 @@ Identify and Download the Latest F@H Version
 
 .. note::
 
-   Please note that in order to satisfy the fahcontrol dependencies, you may need to manually configure python-gtk2 repository for your distribution. Additional information can be found here: https://packages.ubuntu.com/bionic/amd64/python-gtk2/download
+   Please note that in order to satisfy fahcontrol dependencies, you may need to manually configure python-gtk2 repository for your distribution. Additional information can be found here: https://packages.ubuntu.com/bionic/amd64/python-gtk2/download
 
 
 #. Navigate to https://foldingathome.org/alternative-downloads/
