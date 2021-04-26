@@ -23,6 +23,11 @@ Installation for Debian, Mint, and Ubuntu
 Identify and Download the Latest F@H Version
 ********************************************
 
+.. note::
+
+   Please note that in order to satisfy the fahcontrol dependencies, you may need to manually configure python-gtk2 repository for your distribution. Additional information can be found here: https://packages.ubuntu.com/bionic/amd64/python-gtk2/download
+
+
 #. Navigate to https://foldingathome.org/alternative-downloads/
 #. Right click the deb links, and select 'Copy Link Location'
 #. Download the latest identified F@H version to your local machine::
