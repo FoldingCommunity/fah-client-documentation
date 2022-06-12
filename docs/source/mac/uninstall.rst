@@ -2,10 +2,14 @@
 Uninstall
 =========
 
-This section describes how to uninstall V7 FAH application.
+This section describes how to uninstall Folding\@home version 7 on macOS.
 
-Please exit the application, then begin.
+An uninstaller package is included with a standard install of FAH V7 as
 
-For Mac OSX, there is a third-party removal tool, located at the bottom of the this page. 
-Stanford University does not provide any warranty for this tool. 
-If you need further information, please visit the Folding Forum.
+/Applications/Folding\@home/Uninstall Folding\@home.pkg
+
+If you can, please set any running Work Units to Finish before uninstalling.
+
+A standalone uninstaller may be available here:
+
+`Releases <https://github.com/FoldingAtHome/fah-client-osx-uninstaller/releases>`_
